@@ -1,2 +1,2 @@
-# First_project
+# inheritance
 Know how to use
